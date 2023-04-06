@@ -1,0 +1,28 @@
+{
+  "name": "goit-nodejs-hw-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valentiron/goit-nodejs-hw-01.git"
+  },
+  "author": "valentiron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valentiron/goit-nodejs-hw-01/issues"
+  },
+  "homepage": "https://github.com/valentiron/goit-nodejs-hw-01#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^10.0.0",
+    "nanoid": "^3.0.0"
+  }
+}
